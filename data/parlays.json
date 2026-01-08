@@ -1,0 +1,1351 @@
+{
+  "parlays": [
+    {
+      "id": "parlay_1767803696633",
+      "timestamp": "2026-01-07T16:34:56.633Z",
+      "meta": {
+        "legs": 4,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T16:34:56.631Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Kevin Durant",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/kevin-durant-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767804357010",
+      "timestamp": "2026-01-07T16:45:57.010Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T16:45:57.009Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767805072328",
+      "timestamp": "2026-01-07T16:57:52.328Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T16:57:52.326Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767806507421",
+      "timestamp": "2026-01-07T17:21:47.421Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:21:47.418Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767806507486",
+      "timestamp": "2026-01-07T17:21:47.486Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:21:47.486Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          },
+          "explanation": "Stephen Curry — POINTS\n\nConfidence: 55%\nRisk Level: unknown\n\nReasoning:\n• statMuse: [object Object]\n\nNote:\nHigher risk indicates increased volatility relative to the line.\nThis explanation is generated without AI due to availability limits."
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          },
+          "explanation": "LeBron James — POINTS\n\nConfidence: 55%\nRisk Level: unknown\n\nReasoning:\n• statMuse: [object Object]\n\nNote:\nHigher risk indicates increased volatility relative to the line.\nThis explanation is generated without AI due to availability limits."
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          },
+          "explanation": "Giannis Antetokounmpo — POINTS\n\nConfidence: 55%\nRisk Level: unknown\n\nReasoning:\n• statMuse: [object Object]\n\nNote:\nHigher risk indicates increased volatility relative to the line.\nThis explanation is generated without AI due to availability limits."
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767806578574",
+      "timestamp": "2026-01-07T17:22:58.574Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:22:58.572Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767806585317",
+      "timestamp": "2026-01-07T17:23:05.317Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:23:05.316Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          },
+          "explanation": "Stephen Curry is a prolific scorer in the NBA, known for his exceptional shooting ability. According to the StatMuse link provided, you can explore his career stats to see his points per game averages, shooting percentages, and other scoring-related metrics. While the confidence level here is 55%, which suggests moderate confidence in his points market, no specific risk level is given. For a detailed breakdown of his scoring trends and career performance, you can visit the StatMuse page linked. This data can help inform decisions related to his points market."
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          },
+          "explanation": "LeBron James is a highly accomplished NBA player known for his scoring ability among other skills. The confidence level for the points market is at 55%, which suggests a moderate level of certainty in his scoring performance. However, the risk associated with this market is marked as \"unknown,\" indicating that the variability or potential downside is not clearly defined.\n\nFor detailed career stats on LeBron James, including his points per game and other scoring metrics, you can refer to the StatMuse page here: https://www.statmuse.com/nba/ask/lebron-james-career-stats\n\nThis resource provides comprehensive historical data that can help in analyzing his scoring trends."
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          },
+          "explanation": "Giannis Antetokounmpo is a versatile player known for his scoring ability. The confidence level for points in this case is 55%, indicating a moderate expectation regarding his scoring performance. For detailed career stats on Giannis's points and other metrics, you can refer to his StatMuse profile here: https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats. This resource provides comprehensive data on his scoring averages, shooting percentages, and other relevant statistics."
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767806869068",
+      "timestamp": "2026-01-07T17:27:49.068Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:27:49.066Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767806877638",
+      "timestamp": "2026-01-07T17:27:57.638Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:27:57.637Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          },
+          "explanation": "Stephen Curry is a prolific scorer in the NBA, known for his exceptional shooting ability. For detailed career stats on his points, you can refer to this StatMuse page: https://www.statmuse.com/nba/ask/stephen-curry-career-stats. The confidence level for points-related analysis here is 55%, indicating a moderate level of certainty based on available data. The risk associated with this market is currently unknown."
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          },
+          "explanation": "LeBron James is a highly accomplished NBA player known for his scoring ability among other skills. For detailed career points statistics, you can refer to his career stats on StatMuse here: https://www.statmuse.com/nba/ask/lebron-james-career-stats. The confidence level of 55 suggests a moderate level of certainty in his points market performance, but the risk is not specified. This means while there is some indication of his scoring trends, the variability or uncertainty around his points output is not clearly defined."
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          },
+          "explanation": "Giannis Antetokounmpo is a highly productive NBA player known for his scoring ability. According to the data available on StatMuse, you can review his career points statistics to understand his scoring trends. The confidence level for points in this context is 55%, indicating a moderate level of certainty in his scoring performance based on the data. However, the specific risk associated with this market is unknown from the provided information. For detailed stats, you can visit the StatMuse link to see his career points and related metrics."
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767807108267",
+      "timestamp": "2026-01-07T17:31:48.267Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:31:48.266Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767807116794",
+      "timestamp": "2026-01-07T17:31:56.794Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T17:31:56.793Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          },
+          "explanation": "Stephen Curry is a highly skilled scorer known for his prolific point production. According to StatMuse, his career stats highlight his scoring ability, which can be a useful signal when considering points markets. The confidence level for this points market is 55%, indicating a moderate level of confidence based on available data. However, the risk associated with this market is currently unknown, so it's important to consider other factors and signals before making any decisions. For detailed career stats, you can visit the StatMuse page here: https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          },
+          "explanation": "LeBron James is a highly accomplished NBA player known for his scoring ability among other skills. For detailed career stats on his points, you can refer to his StatMuse page here: https://www.statmuse.com/nba/ask/lebron-james-career-stats\n\nYour confidence level in the points market is 55, which suggests a moderate level of certainty. However, the risk associated with this market is currently unknown based on the provided data."
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          },
+          "explanation": "Giannis Antetokounmpo is a versatile player known for his scoring ability, often contributing significantly to his team's points. The confidence level in this points market is at 55%, indicating a moderate level of certainty based on available data. For detailed career statistics on Giannis' scoring, you can refer to his StatMuse profile here: https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats. This resource provides comprehensive insights into his points per game and other scoring metrics throughout his career."
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767807313713",
+      "timestamp": "2026-01-07T17:35:13.713Z",
+      "meta": {
+        "legs": 3,
+        "mode": "safe",
+        "generatedAt": "2026-01-07T17:35:13.711Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767808000000",
+      "timestamp": "2026-01-07T17:40:00.000Z",
+      "meta": {
+        "imported": true,
+        "source": "user",
+        "note": "imported empty slips"
+      },
+      "picks": []
+    },
+    {
+      "id": "parlay_1767810079535",
+      "timestamp": "2026-01-07T18:21:19.535Z",
+      "meta": {
+        "legs": 1,
+        "mode": "test",
+        "generatedAt": "2026-01-07T18:21:19.529Z"
+      },
+      "picks": [
+        {
+          "playerName": "Test Player",
+          "market": "points",
+          "line": 10,
+          "confidence": 70
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767810211284",
+      "timestamp": "2026-01-07T18:23:31.284Z",
+      "meta": {
+        "legs": 5,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T18:23:31.282Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Kevin Durant",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/kevin-durant-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Luka Doncic",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/luka-doncic-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767810252059",
+      "timestamp": "2026-01-07T18:24:12.059Z",
+      "meta": {
+        "legs": 5,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T18:24:12.058Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Kevin Durant",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/kevin-durant-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Luka Doncic",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/luka-doncic-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767832942654",
+      "timestamp": "2026-01-08T00:42:22.654Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T00:42:22.653Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "slips": [
+    {
+      "id": "slip_1767809274036",
+      "createdAt": "2026-01-07T18:07:54.036Z",
+      "mode": "moonshot",
+      "picks": [
+        {
+          "player": "Stephen Curry",
+          "market": "points",
+          "hit": null
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "market": "rebounds",
+          "hit": null
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767810079535",
+      "timestamp": "2026-01-07T18:21:19.535Z",
+      "meta": {
+        "legs": 1,
+        "mode": "test",
+        "generatedAt": "2026-01-07T18:21:19.529Z"
+      },
+      "picks": [
+        {
+          "playerName": "Test Player",
+          "market": "points",
+          "line": 10,
+          "confidence": 70
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767810211284",
+      "timestamp": "2026-01-07T18:23:31.284Z",
+      "meta": {
+        "legs": 5,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T18:23:31.282Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Kevin Durant",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/kevin-durant-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Luka Doncic",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/luka-doncic-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767810252059",
+      "timestamp": "2026-01-07T18:24:12.059Z",
+      "meta": {
+        "legs": 5,
+        "mode": "normal",
+        "generatedAt": "2026-01-07T18:24:12.058Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Kevin Durant",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/kevin-durant-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Luka Doncic",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/luka-doncic-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767832942654",
+      "timestamp": "2026-01-08T00:42:22.654Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T00:42:22.653Z"
+      },
+      "picks": [
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/stephen-curry-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/lebron-james-career-stats"
+            }
+          }
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 20.5,
+          "odds": -110,
+          "confidence": 55,
+          "playingToday": false,
+          "sources": {
+            "statMuse": {
+              "url": "https://www.statmuse.com/nba/ask/giannis-antetokounmpo-career-stats"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "parlay_1767838279856",
+      "timestamp": "2026-01-08T02:11:19.857Z",
+      "meta": {
+        "legs": 4,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T02:11:19.859Z"
+      },
+      "picks": [
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 34.5,
+          "odds": -120,
+          "confidence": 58.38181333900337,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 25.5,
+          "odds": -120,
+          "confidence": 58.115777120936016,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 28.5,
+          "odds": -120,
+          "confidence": 57.94612376303099,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "Stephen Curry",
+          "market": "threesMade",
+          "line": 5.5,
+          "odds": -120,
+          "confidence": 55.69310482869076,
+          "confidenceColor": "orange",
+          "risk": "high"
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767838303489",
+      "timestamp": "2026-01-08T02:11:43.489Z",
+      "meta": {
+        "legs": 6,
+        "mode": "moonshot",
+        "generatedAt": "2026-01-08T02:11:43.489Z"
+      },
+      "picks": [
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "points",
+          "line": 34.5,
+          "odds": -120,
+          "confidence": 58.38181333900337,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "points",
+          "line": 25.5,
+          "odds": -120,
+          "confidence": 58.115777120936016,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "Stephen Curry",
+          "market": "points",
+          "line": 28.5,
+          "odds": -120,
+          "confidence": 57.94612376303099,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "Stephen Curry",
+          "market": "threesMade",
+          "line": 5.5,
+          "odds": -120,
+          "confidence": 55.69310482869076,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "Giannis Antetokounmpo",
+          "market": "rebounds",
+          "line": 12.5,
+          "odds": -110,
+          "confidence": 47.6,
+          "confidenceColor": "orange",
+          "risk": "high"
+        },
+        {
+          "playerName": "LeBron James",
+          "market": "rebounds",
+          "line": 8.5,
+          "odds": 100,
+          "confidence": 37.83132530120482,
+          "confidenceColor": "orange",
+          "risk": "very_high"
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767845656893",
+      "timestamp": "2026-01-08T04:14:16.893Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T04:14:16.893Z"
+      },
+      "picks": [
+        {
+          "desc": "Player A Over 28.5 Points",
+          "hits": 9,
+          "games": 10,
+          "odds": -120,
+          "label": "SAFE",
+          "confidence": 90
+        },
+        {
+          "desc": "Team X Over 114.5",
+          "hits": 10,
+          "games": 15,
+          "odds": -110,
+          "label": "SAFE",
+          "confidence": 72
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767855429834",
+      "timestamp": "2026-01-08T06:57:09.834Z",
+      "meta": {
+        "legs": 3,
+        "mode": "moonshot",
+        "generatedAt": "2026-01-08T06:57:09.834Z"
+      },
+      "picks": [
+        {
+          "desc": "Player A Over 28.5 Points",
+          "hits": 9,
+          "games": 10,
+          "odds": -120,
+          "label": "SAFE",
+          "confidence": 90
+        },
+        {
+          "desc": "Team X Over 114.5",
+          "hits": 10,
+          "games": 15,
+          "odds": -110,
+          "label": "SAFE",
+          "confidence": 72
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767856193770",
+      "timestamp": "2026-01-08T07:09:53.770Z",
+      "meta": {
+        "legs": 5,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T07:09:53.770Z"
+      },
+      "picks": [
+        {
+          "desc": "Player A Over 28.5 Points",
+          "hits": 9,
+          "games": 10,
+          "odds": -120,
+          "label": "SAFE",
+          "confidence": 90
+        },
+        {
+          "desc": "Team X Over 114.5",
+          "hits": 10,
+          "games": 15,
+          "odds": -110,
+          "label": "SAFE",
+          "confidence": 72
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767856710514",
+      "timestamp": "2026-01-08T07:18:30.514Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T07:18:30.514Z"
+      },
+      "picks": [
+        {
+          "desc": "Player A Over 28.5 Points",
+          "hits": 9,
+          "games": 10,
+          "odds": -120,
+          "label": "SAFE",
+          "confidence": 90
+        },
+        {
+          "desc": "Team X Over 114.5",
+          "hits": 10,
+          "games": 15,
+          "odds": -110,
+          "label": "SAFE",
+          "confidence": 72
+        }
+      ],
+      "result": null
+    },
+    {
+      "id": "parlay_1767857240102",
+      "timestamp": "2026-01-08T07:27:20.102Z",
+      "meta": {
+        "legs": 3,
+        "mode": "normal",
+        "generatedAt": "2026-01-08T07:27:20.102Z"
+      },
+      "picks": [
+        {
+          "desc": "Player A Over 28.5 Points",
+          "hits": 9,
+          "games": 10,
+          "odds": -120,
+          "label": "9/10 games hit",
+          "confidence": 90
+        },
+        {
+          "desc": "Team X Over 114.5",
+          "hits": 10,
+          "games": 15,
+          "odds": -110,
+          "label": "10/15 games hit",
+          "confidence": 72
+        }
+      ],
+      "result": null
+    }
+  ]
+}
